@@ -1,7 +1,7 @@
 Till tech test
 ==============
 
-![a till](/images/till.jpg)
+![a till](./images/till.jpg)
 
 We want to sell tills to local hipster coffee shop who are finally embracing the 21st century. We need a new till to replace their vintage machines - unfortunately, hipster staff are too cool to learn a new system, so we need you to build something that they will understand.
 
@@ -10,7 +10,7 @@ Specification
 
 This is what a sample receipt looks like:
 
-![a receipt](/images/receipt.jpg)
+![a receipt](./images/receipt.jpg)
 
 
 Version 1
